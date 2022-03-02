@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureNameValidator", "AzureNameValidator\AzureNameValidator.csproj", "{4E0773AC-9F2B-48CC-AA9D-3AF0BDD88CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0773AC-9F2B-48CC-AA9D-3AF0BDD88CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0773AC-9F2B-48CC-AA9D-3AF0BDD88CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0773AC-9F2B-48CC-AA9D-3AF0BDD88CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0773AC-9F2B-48CC-AA9D-3AF0BDD88CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C7C14F-3B7E-4E1F-B781-549A1E080385}
+	EndGlobalSection
+EndGlobal
